@@ -25,9 +25,9 @@ h1{
 }
 .header {
   display: flex;
-  justify-content: flex-start; /* Alinea los elementos hacia la izquierda */
-  align-items: center;      /* Centra los elementos verticalmente */
-  padding: 20px;            /* Espaciado superior e izquierdo */
+  justify-content: flex-start;
+  align-items: center;      
+  padding: 20px;            
   width: 100%;
 }
 
