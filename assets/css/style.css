@@ -6,3 +6,14 @@
 	background-color: #080824;
 	color: #ebebeb;
 }
+
+header {
+    display: flex;
+}
+
+h1{
+    
+    font-size: 30px;
+    text-align: left;
+    
+}
